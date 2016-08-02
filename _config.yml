@@ -1,4 +1,3 @@
-layout_spectrum: 0.7633676815312356
 typography_spectrum: 0.504321955377236
 color:
   brandStrength: 0.06782812369056046
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.7633676815312356
 name: Blueprint Tech
 title: Vi reparerer du
+description: 'Tilbyder det samme som alle, bare meget bedre'
