@@ -1,0 +1,14 @@
+layout_spectrum: 0.7633676815312356
+typography_spectrum: 0.504321955377236
+color:
+  brandStrength: 0.06782812369056046
+  lightness: 0.029224562691524625
+  saturation: 0.8657503509894013
+  rhythmicContrast: 0.26264911564067006
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Blueprint Tech
