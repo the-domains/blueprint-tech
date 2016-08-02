@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-02T18:45:35.691Z'
+datePublished: '2016-08-02T18:46:47.589Z'
 sourcePath: _posts/2016-08-02-httpsblueprinttechdkiphone-reparations-priser.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7152060-4532-4d11-9f71-eac76663dabd.jpg
 author: []
 via: {}
-dateModified: '2016-08-02T18:45:35.252Z'
+dateModified: '2016-08-02T18:46:44.817Z'
 title: Phone reparationer Klik her
 publisher: {}
 description: ''
@@ -17,8 +17,3 @@ _type: MediaObject
 
 ---
 # Phone reparationer Klik her
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7152060-4532-4d11-9f71-eac76663dabd.jpg)
-
-## [https://blueprinttech.dk/][0]**[iphone-reparations-priser][0]**[/][0]
-
-[0]: https://blueprinttech.dk/iphone-reparations-priser/
